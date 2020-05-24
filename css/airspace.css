@@ -101,7 +101,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-size: 50% 50%;
   background-attachment: fixed;
   background-position: right center;
-  padding: 200px 0 280px 0;
+  padding: 100px 0 0 0;
   position: relative;
 }
 #slider:before {
