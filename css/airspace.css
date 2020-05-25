@@ -309,6 +309,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #testimonial .testimonial-carousel img {
   padding-bottom: 38px;
+  height: 500px;
 }
 #testimonial .testimonial-carousel p {
   line-height: 28px;
@@ -318,8 +319,6 @@ font header .navbar-default .navbar-nav li a:hover {
 #testimonial .testimonial-carousel .user img {
   padding-bottom: 0px;
   border-radius: 500px;
-  height: 500px;
-
 }
 #testimonial .testimonial-carousel .user p {
   padding-bottom: 0;
