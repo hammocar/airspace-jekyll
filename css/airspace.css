@@ -98,7 +98,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #slider {
   background: url("../img/slider-bg.jpg") no-repeat;
-  background-size: 40% 100%;
+  background-size: 45% 100%;
   background-attachment: fixed;
   background-position: right center;
   padding: 0 0 0 0;
@@ -111,7 +111,7 @@ font header .navbar-default .navbar-nav li a:hover {
   left: 0;
   bottom: 0;
   right: 0;
-  width: 50%;
+  width: 55%;
   height: 100%;
   background: linear-gradient(to left, #8b86a3, #322e40);
   opacity: .8;
@@ -134,7 +134,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-family: 'Roboto', sans-serif;
   font-weight: 350;
   letter-spacing: 3px;
-  padding-bottom: 75px
+  padding-bottom: 45px
 }
 /*--
 	wrapper Start
