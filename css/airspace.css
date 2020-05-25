@@ -137,7 +137,8 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 350;
   letter-spacing: 3px;
   padding-bottom: 45px;
-  padding-left: 45px; 
+  padding-right: 45px;
+  padding-left: 45px;
 }
 /*--
 	wrapper Start
