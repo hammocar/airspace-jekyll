@@ -100,7 +100,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("../img/slider-bg.jpg") no-repeat;
   background-size: 50% 100%;
   background-attachment: fixed;
-  background-position: right bottom;
+  background-position: right center;
   padding: 0 0 0 0;
   position: relative;
 }
@@ -127,7 +127,8 @@ font header .navbar-default .navbar-nav li a:hover {
   letter-spacing: 10px;
   padding-bottom: 45px;
   padding-top: 45px;
-  padding-right: 70px; 
+  padding-right: 45px;
+  padding-left: 45px;
 }
 #slider .block p {
   font-size: 30px;
@@ -136,7 +137,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 350;
   letter-spacing: 3px;
   padding-bottom: 45px;
-  padding-right: 70px; 
+  padding-left: 45px; 
 }
 /*--
 	wrapper Start
