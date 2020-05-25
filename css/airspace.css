@@ -320,7 +320,6 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #testimonial .testimonial-carousel .user img {
   padding-bottom: 0px;
-  border-radius: 500px;
 }
 #testimonial .testimonial-carousel .user p {
   padding-bottom: 0;
@@ -335,7 +334,6 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #testimonial .testimonial-carousel .owl-carousel .owl-pagination div {
   border: 1px solid #1D1D1D;
-  border-radius: 500px;
   display: inline-block;
   height: 10px;
   margin-right: 15px;
