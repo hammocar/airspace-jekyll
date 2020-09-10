@@ -27,7 +27,7 @@
   padding: 34.37% 0 0 0; /* 34.37% = 100 / (w / h) = 100 / (640 / 220) */
 }
 
-.container img {
+.container2 img {
   display: block;
   max-width: 100%;
   max-height: 100%;
