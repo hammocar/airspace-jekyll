@@ -132,7 +132,7 @@ font header .navbar-default .navbar-nav li a:hover {
     background: hsla(300, 100%, 90%, 0.1);
     overflow: hidden;
     &::before {
-        background-image: url("../img/IMG_0288 (3).jpg") no-repeat;
+        background-image: url("../img/IMG_0288 (5).jpg") no-repeat;
         background-size: cover;
         background-size: cover !important;
         -webkit-background-size: cover !important;
