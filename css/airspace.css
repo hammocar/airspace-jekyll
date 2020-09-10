@@ -129,10 +129,10 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #slider {
     position: relative;
-    background: linear-gradient(to left, #8b86a3, #322e40);
+    background: url("../img/IMG_0288 (5).jpg") no-repeat;
     overflow: hidden;
     &::before {
-        background-image: url("../img/IMG_0288 (5).jpg") no-repeat;
+        background-image: linear-gradient(to left, #8b86a3, #322e40); 
         background-size: cover;
         background-size: cover !important;
         -webkit-background-size: cover !important;
