@@ -161,6 +161,12 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider .block {
   background: linear-gradient(to left, #8b86a3, #322e40);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 60%;
+  height: 100%;
 }
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
