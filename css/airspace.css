@@ -133,12 +133,12 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block {
   background: linear-gradient(to left, #8b86a3, #322e40);
   width: 60%;
-  position: absolute;
   height: auto;
+  position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
-  padding: 34.37% 0 0 0;
+  right: 0;
 }
 
 #slider img {
@@ -170,7 +170,8 @@ font header .navbar-default .navbar-nav li a:hover {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   letter-spacing: 3px;
-  padding-bottom: 90px;
+  padding-bottom: 100px;
+  padding-top: 45px;
   padding-right: 45px;
   padding-left: 45px;
   color: #EBEBEB;
