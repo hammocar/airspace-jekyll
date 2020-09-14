@@ -133,15 +133,12 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block {
   background: linear-gradient(to left, #8b86a3, #322e40);
   width: 60%;
-  height: 100%;
   position: absolute;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   height: auto;
   top: 0;
   bottom: 0;
   left: 0;
+  padding: 34.37% 0 0 0;
 }
 
 #slider img {
