@@ -132,8 +132,8 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider .block {
   background: linear-gradient(to left, #8b86a3, #322e40);
-  width: 1200px;
-  height: 4032px;
+  width: 1150px;
+  height: 5032px;
   max-width: 60%;
   max-height: 100%;
   position: absolute;
