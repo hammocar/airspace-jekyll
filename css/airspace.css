@@ -116,7 +116,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   height: auto;
   overflow: hidden;
-  padding: 34.37% 20% 105% 0; /* 34.37% = 100 / (w / h) = 100 / (640 / 220) */
+  padding: 34.37% 20% 5% 0; /* 34.37% = 100 / (w / h) = 100 / (640 / 220) */
 }
 #slider:before {
   content: "";
