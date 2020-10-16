@@ -105,7 +105,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("../img/IMG_0288 (5).jpg") no-repeat;
   background-size: contain;
   background-attachment: fixed;
-  background-position: 10% 0%;
+  background-position: right;
   padding: 200px 0 280px 0;
   position: relative;
 }
