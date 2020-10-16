@@ -112,7 +112,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider:before {
   content: "";
-  background: url("https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg") no-repeat;
+  background: url("../img/IMG_0288 (5).jpg") no-repeat;
   position: absolute;
   background-attachment: absolute;
   background-position: right top;
