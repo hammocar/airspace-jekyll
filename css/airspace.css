@@ -104,30 +104,29 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #slider {
   background: linear-gradient(to left, #8b86a3, #322e40);
-  background-attachment: absolute;
-  padding: 380px 0 380px 0;
-  position: static;
+  background-attachment: fixed;
+  background-size: cover;
   width: 100%;
   opacity: .8;
-  size: contain;
+  size: cover;
+  position: relative;
+  padding: 200px 0 280px 0;
 }
 #slider:before {
   content: "";
-  background: url("../img/IMG_0288 (5).jpg") no-repeat;
   position: absolute;
-  background-attachment: absolute;
-  background-position: right top;
-  background-size: contain;
-  size: contain;
-  top: 2%;
+  left: 50%;
+  top: 0;
   bottom: 0;
-  right: 20px;
-  width: 50%;
-  max-height: 740px;
+  right: 0;
+  min-height: 100%;
+  background: url("../img/IMG_0288 (5).jpg") no-repeat;
+  background-size: contain;
+  background-position: right center;
 }
 #slider .block {
   content: "";
-  position: absolute;
+  position: static;
   padding: 25px 25px 25px 25px;
   size: contain;
   top: 0;
@@ -137,21 +136,6 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 100%;
   opacity: 1;
   color: #E3E3E4;
-}
-#slider .block h1 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 100;
-  font-size: 45px;
-  line-height: 60px;
-  letter-spacing: 10px;
-  padding-bottom: 45px;
-}
-#slider .block p {
-  font-size: 23px;
-  line-height: 40px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-  letter-spacing: 3px;
 }
 /*--
 	wrapper Start
