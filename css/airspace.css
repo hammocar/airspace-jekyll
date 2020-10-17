@@ -109,7 +109,7 @@ font header .navbar-default .navbar-nav li a:hover {
   opacity: .8;
   size: cover;
   position: relative;
-  padding: 200px 0 280px 0;
+  padding: 20px 0 20px 0;
 }
 #slider:before {
   content: "";
@@ -126,6 +126,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block {
   content: "";
   position: static;
+  padding: 25px 25px 25px 25px;
   size: contain;
   top: 0;
   bottom: 0;
