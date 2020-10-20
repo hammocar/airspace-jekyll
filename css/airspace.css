@@ -126,6 +126,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block {
   content: "";
   position: static;
+  position: left;
   padding: 25px 25px 25px 25px;
   size: contain;
   top: 0;
