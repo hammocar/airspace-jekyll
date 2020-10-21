@@ -127,11 +127,7 @@ font header .navbar-default .navbar-nav li a:hover {
   content: "";
   position: static;
   position: left;
-  padding: 25px 25px 25px 25px;
   size: contain;
-  top: 0;
-  bottom: 0;
-  left: 0;
   width: 45%;
   height: 100%;
   opacity: 1;
