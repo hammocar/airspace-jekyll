@@ -103,13 +103,11 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #slider {
   background: linear-gradient(to left, #8b86a3, #322e40);
-  background-attachment: fixed;
   background-size: cover;
   width: 100%;
   opacity: .8;
-  size: cover;
   position: relative;
-  padding: 280px 0 280px 0;
+  padding: 280px 70px 280px 0;
 }
 #slider:before {
   content: "";
@@ -118,15 +116,18 @@ font header .navbar-default .navbar-nav li a:hover {
   top: 0;
   bottom: 0;
   right: 0;
-  min-height: 100%;
+  max-height: 100%;
+  size: contain;
   background: url("../img/IMG_0288 (5).jpg") no-repeat;
-  background-size: contain;
-  background-position: right center;
+  background-attachment: fixed;
+  background-size: 50% 50%;
+  background-position: right;
 }
 #slider .block {
   content: "";
   position: static;
   position: left;
+  padding: 25px 25px 25px 25px;
   size: contain;
   width: 45%;
   height: 100%;
