@@ -16,7 +16,9 @@
 .hero-image {
   background-image: url("../img/IMG_0288 (5).jpg");
   background-color: #cccccc;
-  height: 1000px;
+  height: 1200px;
+  width: 50%;
+  left: 25%;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -140,7 +142,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   opacity: .8;
   position: relative;
-  padding: 280px 0 280px 0;
+  padding: 20px 0 20px 0;
 }
 #slider:before {
   content: "";
