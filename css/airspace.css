@@ -149,12 +149,11 @@ font header .navbar-default .navbar-nav li a:hover {
   top: 0;
   bottom: 0;
   right: 0;
-  max-height: 100%;
+  width: 50%;
   size: contain;
-  background: url("../img/IMG_0288 (5).jpg") no-repeat;
   background-attachment: fixed;
-  background-size: 50% 50%;
-  background-position: right;
+  background-size: 500px;
+  background-position: right center;
 }
 #slider .block {
   content: "";
