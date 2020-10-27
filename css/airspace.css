@@ -14,16 +14,15 @@
 	Common Css
 --*/
 .hero-image {
-  background-image: url("../img/IMG_0288 (5).jpg");
-  background-color: #cccccc;
-  height:600px;
+  background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
+  height:1200px;
   width: 50%;
   left: 25%;
   top: -25%;
-  background-position: 50% 30%;
+  background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: 50% 50%;
+  background-size: contain;
   position: relative;
 }
 
