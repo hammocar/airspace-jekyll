@@ -15,32 +15,32 @@
 --*/
 .hero-image {
   background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
-  height:1200px;
-  min-width: 50%;
+    height:1200px;
+  min-width: 60%;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: contain;
   position: relative;
+  opacity: .6;
 }
 
 .hero-text {
   text-align: center;
   position: relative;
-  top: 500px;
+  top: -600px;
   color: white;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 .hero-text h1 {
   font-family: 'Roboto', sans-serif;
-  font-weight: 700;
-  font-size: 75px;
+  font-weight: 100;
+  font-size: 90px;
   line-height: 60px;
   letter-spacing: 10px;
-  padding-bottom: 45px;
 }
 .hero-text p {
-  font-size: 50px;
+  font-size: 40px;
   line-height: 40px;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
@@ -135,7 +135,8 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #slider {
   background: linear-gradient(to left, #8b86a3, #322e40);
-  background-size: cover;
+  background-size: contain;
+  height: 1200px;
   opacity: .8;
 }
 #slider:before {
@@ -152,19 +153,33 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #E3E3E4;
 }
 #slider .block h1 {
+  text-align: center;
+  position: relative;
+  top: 500px;
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
-  font-size: 45px;
+  font-size: 70px;
   line-height: 60px;
   letter-spacing: 10px;
   padding-bottom: 45px;
 }
 #slider .block p {
-  font-size: 23px;
+  text-align: center;
+  position: relative;
+  top: 500px;
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  font-size: 40px;
   line-height: 40px;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   letter-spacing: 3px;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 /*--
 	wrapper Start
