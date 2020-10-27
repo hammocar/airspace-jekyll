@@ -14,7 +14,7 @@
 	Common Css
 --*/
 .hero-image {
-  background-image: url("../img/IMG_0288 (5).jpg") no-repeat;
+  background-image: url("../img/IMG_0288 (5).jpg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
