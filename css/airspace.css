@@ -15,22 +15,28 @@
 --*/
 .hero-image {
   background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
-    height:1200px;
-  min-width: 60%;
-  background-position: center;
+  height: 100vh;
+  width: 100vw;
+  background-position: 50% 50%;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   position: relative;
-  opacity: .6;
+  opacity: .8;
 }
 
 .hero-text {
-  text-align: center;
-  position: relative;
-  top: -600px;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,0.65);
   color: white;
-  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 .hero-text h1 {
   font-family: 'Roboto', sans-serif;
