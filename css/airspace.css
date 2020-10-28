@@ -37,7 +37,7 @@ and (max-device-width : 1024px) {
 /*--
 	Common Css
 --*/
-.hero-image {
+#ci-hero-12 .widget-wrap .hero-image {
   background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
   height: 100vh;
   width: 100vw;
@@ -54,7 +54,7 @@ and (max-device-width : 1024px) {
   margin-right: auto;
 }
 
-.hero-text {
+#ci-hero-12 .widget-wrap .hero-text {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -70,10 +70,10 @@ and (max-device-width : 1024px) {
   text-align: center;
   padding: 50vh 5vw 15vh 5vw;
 }
-.hero-text h1 {
+#ci-hero-12 .widget-wrap .hero-text h1 {
   font-size: 6vw;
 }
-.hero-text p {
+#ci-hero-12 .widget-wrap .hero-text p {
   font-size: 3vw;
 }
 body {
