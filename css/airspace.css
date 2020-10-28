@@ -40,6 +40,12 @@
   font-family: 'Roboto', sans-serif;
   text-align: center;
 }
+.hero-text h1 {
+  font-size: 6vw;
+}
+.hero-text p {
+  font-size: 3vw;
+}
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
