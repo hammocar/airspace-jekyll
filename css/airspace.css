@@ -14,6 +14,24 @@
         background-attachment: scroll;
     }
 }
+
+#ci-hero-11 .widget-wrap , #ci-hero-12 .widget-wrap {
+background-size: auto;
+background-attachment: fixed;
+}
+
+.widget-wrap {
+background-attachment: scroll;
+}
+/*-------- iPads (portrait and landscape) --------*/
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+#ci-hero-11 .widget-wrap , #ci-hero-12 .widget-wrap {
+
+    background-attachment: initial;
+
+}
 /* var text-decoration */
 /*--
 	Common Css
