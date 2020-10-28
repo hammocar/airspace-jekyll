@@ -15,7 +15,7 @@
 --*/
 .hero-image {
   background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
-  height: 100vh;
+  height: 150vh;
   width: 100vw;
   background-position: 10% 10%;
   background-attachment: fixed;
