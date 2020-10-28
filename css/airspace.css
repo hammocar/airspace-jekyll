@@ -17,7 +17,7 @@
   background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
   height: 100vh;
   width: 100vw;
-  background-position:20% 20%;
+  background-position:50% 20%;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -44,7 +44,7 @@
   flex-direction: column;
   font-family: 'Roboto', sans-serif;
   text-align: center;
-  padding: 50vh 5vw 5vh 5vw;
+  padding: 50vh 5vw 10vh 5vw;
 }
 .hero-text h1 {
   font-size: 6vw;
