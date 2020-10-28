@@ -68,7 +68,7 @@ and (max-device-width : 1024px) {
   flex-direction: column;
   font-family: 'Roboto', sans-serif;
   text-align: center;
-  padding: 50vh 5vw 10vh 5vw;
+  padding: 50vh 5vw 15vh 5vw;
 }
 .hero-text h1 {
   font-size: 6vw;
