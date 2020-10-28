@@ -38,6 +38,7 @@
   justify-content: center;
   flex-direction: column;
   font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 body {
   font-family: 'Open Sans', sans-serif;
