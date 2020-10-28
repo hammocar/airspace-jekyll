@@ -37,20 +37,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-}
-.hero-text h1 {
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
-  font-size: 90px;
-  line-height: 90px;
-  letter-spacing: 6px;
-}
-.hero-text p {
-  font-size: 40px;
-  line-height: 40px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-  letter-spacing: 3px;
 }
 body {
   font-family: 'Open Sans', sans-serif;
