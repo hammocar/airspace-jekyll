@@ -17,12 +17,12 @@
   background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
   height: 100vh;
   width: 100vw;
-  background-position: 50% 50%;
+  background-position: 10% 10%;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  opacity: .8;
+  opacity: .7;
 }
 
 .hero-text {
