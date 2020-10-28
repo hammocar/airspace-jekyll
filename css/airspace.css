@@ -15,14 +15,19 @@
 --*/
 .hero-image {
   background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
-  height: 150vh;
+  height: 100vh;
   width: 100vw;
-  background-position: 30% 30%;
+  background-position:20% 20%;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
   opacity: .7;
+  display: block;
+  overflow: visible;
+  z-index:-1;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hero-text {
@@ -39,6 +44,7 @@
   flex-direction: column;
   font-family: 'Roboto', sans-serif;
   text-align: center;
+  padding: 50vh 5vw 5vh 5vw;
 }
 .hero-text h1 {
   font-size: 6vw;
