@@ -27,10 +27,11 @@
 @media only screen  and (max-device-width : 1024px) {
 #ci-hero-11 .widget-wrap .hero-image, #ci-hero-12 .widget-wrap .hero-image {
   background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
-  background-size: cover;
   background-repeat: no-repeat;
-  height: 100vh;
-  width: 100vw;
+  background-size: contain;
+  background-position: center;
+  height: 900px;
+  min-width: 400px;
   position: relative;
   opacity: .7;
 }
@@ -114,7 +115,7 @@ a:active {
 --*/
 header {
   background: #fff;
-  padding: 10px 0;
+  padding: 5px 0;
 }
 header .navbar {
   margin-bottom: 0px;
