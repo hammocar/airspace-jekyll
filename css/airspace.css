@@ -11,19 +11,41 @@
 @import url(//fonts.googleapis.com/css?family=Volkhov:400italic);
 
 #ci-hero-11 .widget-wrap .hero-image, #ci-hero-12 .widget-wrap .hero-image {
-background-attachment: fixed;
+  background-attachment: fixed;
+  background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
+  height: 100vh;
+  width: 100vw;
+  background-position:50% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  opacity: .7;
+  display: block;
+  overflow: visible;
+  z-index:-1;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.widget-wrap {
-background-attachment: fixed;
-}
+
 /*-------- iPads (portrait and landscape) --------*/
 @media only screen 
-and (min-device-width : 768px) 
+and (min-device-width : 600px) 
 and (max-device-width : 1024px) {
 #ci-hero-11 .widget-wrap .hero-image, #ci-hero-12 .widget-wrap .hero-image {
-
-    background-attachment: initial;
+  background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
+  height: 100vh;
+  width: 100vw;
+  background-position:50% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  opacity: .7;
+  display: block;
+  overflow: visible;
+  z-index:-1;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 }
