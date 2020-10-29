@@ -202,12 +202,28 @@ body {
 }
 #intro .block h2 {
   padding-top: 35px;
-  line-height: 35px;
+  line-height: 30px;
   margin: 0;
+  color: #71689c; 
+}
+#intro .block h4 {
+  line-height: 30px;
+  margin: 0;
+  color: #5f965f; 
+}
+#intro .block h3 {
+  padding-top: 35px;
+  line-height: 30px;
+  margin: 0;
+  color: #71689c; 
 }
 #intro .block p {
   color: #7B7B7B;
   padding-top: 20px;
+}
+#intro .block p1 {
+  color: #7B7B7B;
+  padding-top: 5px;
 }
 #intro .block img {
   padding-left: 40px;
