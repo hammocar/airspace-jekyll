@@ -27,6 +27,7 @@
 @media only screen  and (max-device-width : 1024px) {
 #ci-hero-11 .widget-wrap .hero-image, #ci-hero-12 .widget-wrap .hero-image {
   background-image: url("https://raw.githubusercontent.com/hammocar/hammocar.github.io/master/img/IMG_0288%20(5).jpg");
+  background-attachment: scroll;
   background-size: cover;
   background-position: center;
   height: 900px;
