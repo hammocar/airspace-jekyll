@@ -71,10 +71,10 @@ and (max-device-width : 1024px) {
   padding: 50vh 5vw 15vh 5vw;
 }
 #ci-hero-12 .widget-wrap .hero-text h1 {
-  font-size: 6vw;
+  font-size: 60px;
 }
 #ci-hero-12 .widget-wrap .hero-text p {
-  font-size: 3vw;
+  font-size: 30px;
 }
 body {
   font-family: 'Open Sans', sans-serif;
