@@ -456,8 +456,8 @@ body {
 #global-header .block {
   color: #E3E3E4;
   margin: 0 auto;
-  padding-left: 90px;
-  padding-right: 90px;
+  padding-left: 60px;
+  padding-right: 60px;
   text-align: center;
 }
 #global-header .block h1 {
